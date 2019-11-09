@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 sudo apt-get update
 
 # Swap file setting ( default 6GB )
